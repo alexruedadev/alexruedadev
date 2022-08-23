@@ -1,11 +1,14 @@
 
 <!-- linkedin -->
+<div>
+
+</div>
 <a  href="https://www.linkedin.com/" style="margin:5px">
-    <img style="margin:5px" align="right" alt="alexruedadev Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img style="margin:5px" align="right" alt="alexruedadev Linkedin" width="30px" src="./icons/linkedin-original.svg" />
 </a>
 <!-- twitter -->
 <a href="https://twitter.com/" >
-    <img style="margin:5px" align="right" alt="alexruedadev Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img style="margin:5px" align="right" alt="alexruedadev Twitter" width="30px" src="./icons/twitter-original.svg" />
 </a>
 
 
