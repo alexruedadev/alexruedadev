@@ -1,13 +1,13 @@
-<div>
-    <!-- linkedin -->
-    <a href="https://www.linkedin.com/" style="float: right; margin:5px">
-        <img align="left" alt="alexruedadev Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <!-- twitter -->
-    <a href="https://twitter.com/" style="float: right; margin:5px">
-    <img align="left" alt="alexruedadev Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-</div>
+
+<!-- linkedin -->
+<a  href="https://www.linkedin.com/" style="margin:5px">
+    <img style="margin:5px" align="right" alt="alexruedadev Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<!-- twitter -->
+<a href="https://twitter.com/" >
+    <img style="margin:5px" align="right" alt="alexruedadev Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 
 <img src="https://i.ibb.co/Sx8cmck/13.gif" alt="13" width="70">
 
