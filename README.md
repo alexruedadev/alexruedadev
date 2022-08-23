@@ -1,15 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my code lab.
-
-<img src="https://i.ibb.co/Sx8cmck/13.gif" alt="13" width="70">
+### 
+<div style="text-align:center">
+    <img src="https://i.ibb.co/Sx8cmck/13.gif" alt="13" width="70">
+    <h2> Welcome to my code lab</h1>
+</div>
 
 ---
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="15" > main.js
-
-````js
-import Developer from './developer.js'
-
-const Dev = new Developer()
-````
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="15" > Human.js
 ````js
