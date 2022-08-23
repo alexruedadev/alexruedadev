@@ -1,11 +1,4 @@
-<style>
-    #social {
-        display:flex;
-        float: right;
-    }
-</style>
-
-<div id="social">
+<div id="social" style="display:flex; float: right">
     <!-- linkedin -->
     <a href="https://www.linkedin.com/" style="margin:5px">
         <img align="left" alt="alexruedadev Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
