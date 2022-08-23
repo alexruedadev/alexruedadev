@@ -1,10 +1,10 @@
-<div id="social" style="display:flex; float: right">
+<div>
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/" style="margin:5px">
+    <a href="https://www.linkedin.com/" style="float: right; margin:5px">
         <img align="left" alt="alexruedadev Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
     <!-- twitter -->
-    <a href="https://twitter.com/" style="margin:5px">
+    <a href="https://twitter.com/" style="float: right; margin:5px">
     <img align="left" alt="alexruedadev Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
 </div>
@@ -13,7 +13,7 @@
 
 
 
-<br>
+
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="15" > Human.js
