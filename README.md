@@ -35,8 +35,10 @@ class Human {
 class Developer extends Human {
     constructor() {
         super();
-        this.currentJob = 'Freelancer';
-        this.devLangs = ['HTML', 'CSS', 'JavaScript', 'PHP'];
+        this.frontend = ['HTML', 'CSS', 'Tailwind', 'JavaScript'];
+        this.backend = ['NodeJS', 'Java', 'PHP', 'Python'];
+        this.frameworks = ['Vue', 'React'];
+        this.databases = ['Firebase', 'MongoDB', 'MySQL']
     }
 }
 ````
